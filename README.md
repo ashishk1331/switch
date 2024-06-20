@@ -1,3 +1,5 @@
+![Banner image for switch](banner.png)
+
 # Switch
 
 A simple extension to add search shortcut to Youtube. Press `Shift+K` to search.
